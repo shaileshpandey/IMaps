@@ -1,0 +1,125 @@
+﻿<Program>
+  <Name>Marketing</Name>
+  <ProgramRoles>
+    <ProgramRole>
+      <Name>Head of Marketing &amp; Product/Solutions Mgmt.</Name>
+      <SortOrder>1</SortOrder>
+      <Responsibilities>
+        <PrimaryResponsibility>
+          <Name>Corporate Marketing</Name>
+          <SortOrder>1</SortOrder>
+          <ResponsibilityItems>
+            <PrimaryResponsibilityItem>
+              <Name>Corporate Brand</Name>
+              <SortOrder>1</SortOrder>
+            </PrimaryResponsibilityItem>
+            <PrimaryResponsibilityItem>
+              <Name>Press Relations/Public relations</Name>
+              <SortOrder>2</SortOrder>
+            </PrimaryResponsibilityItem>
+            <PrimaryResponsibilityItem>
+              <Name>Corporate Communications</Name>
+              <SortOrder>3</SortOrder>
+            </PrimaryResponsibilityItem>
+            <PrimaryResponsibilityItem>
+              <Name>Corporate Sponsorships</Name>
+              <SortOrder>4</SortOrder>
+            </PrimaryResponsibilityItem>
+            <PrimaryResponsibilityItem>
+              <Name>Agency Management</Name>
+              <SortOrder>5</SortOrder>
+            </PrimaryResponsibilityItem>
+            <PrimaryResponsibilityItem>
+              <Name>Media Buying</Name>
+              <SortOrder>6</SortOrder>
+            </PrimaryResponsibilityItem>
+            <PrimaryResponsibilityItem>
+              <Name>Marketing communications</Name>
+              <SortOrder>7</SortOrder>
+            </PrimaryResponsibilityItem>
+          </ResponsibilityItems>
+        </PrimaryResponsibility>
+        <PrimaryResponsibility ItemNo="2">
+          <Name>Sales Enablement</Name>
+          <SortOrder>2</SortOrder>
+          <ResponsibilityItems>
+            <PrimaryResponsibilityItem>
+              <Name>Demand generation</Name>
+              <SortOrder>1</SortOrder>
+            </PrimaryResponsibilityItem>
+            <PrimaryResponsibilityItem>
+              <Name>Messaging Collateral, Tools, Training</Name>
+              <SortOrder>2</SortOrder>
+            </PrimaryResponsibilityItem>
+            <PrimaryResponsibilityItem>
+              <Name>Events/Trade Shows</Name>
+              <SortOrder>3</SortOrder>
+            </PrimaryResponsibilityItem>
+            <PrimaryResponsibilityItem>
+              <Name>Field marketing sales support</Name>
+              <SortOrder>4</SortOrder>
+            </PrimaryResponsibilityItem>
+          </ResponsibilityItems>
+        </PrimaryResponsibility>
+        <PrimaryResponsibility ItemNo="3">
+          <Name>Market and Customer Understanding</Name>
+          <SortOrder>3</SortOrder>
+          <ResponsibilityItems>
+            <PrimaryResponsibilityItem>
+              <Name>Market research</Name>
+              <SortOrder>1</SortOrder>
+            </PrimaryResponsibilityItem>
+            <PrimaryResponsibilityItem>
+              <Name>Segmentation</Name>
+              <SortOrder>2</SortOrder>
+            </PrimaryResponsibilityItem>
+            <PrimaryResponsibilityItem>
+              <Name>Segment Marketing</Name>
+              <SortOrder>3</SortOrder>
+            </PrimaryResponsibilityItem>
+            <PrimaryResponsibilityItem>
+              <Name>Customer Experience</Name>
+              <SortOrder>4</SortOrder>
+            </PrimaryResponsibilityItem>
+          </ResponsibilityItems>
+        </PrimaryResponsibility>
+        <PrimaryResponsibility ItemNo="4">
+          <Name>Product Marketing</Name>
+          <SortOrder>4</SortOrder>
+          <ResponsibilityItems>
+            <PrimaryResponsibilityItem>
+              <Name>Product/solutions mgmt</Name>
+              <SortOrder>1</SortOrder>
+            </PrimaryResponsibilityItem>
+            <PrimaryResponsibilityItem>
+              <Name>Product Positioning and Packaging</Name>
+              <SortOrder>2</SortOrder>
+            </PrimaryResponsibilityItem>
+            <PrimaryResponsibilityItem>
+              <Name>Product launch</Name>
+              <SortOrder>3</SortOrder>
+            </PrimaryResponsibilityItem>
+          </ResponsibilityItems>
+        </PrimaryResponsibility>
+        <PrimaryResponsibility ItemNo="5">
+          <Name>Functional Management</Name>
+          <SortOrder>5</SortOrder>
+          <ResponsibilityItems>
+            <PrimaryResponsibilityItem>
+              <Name>Marketing Best Practices/Capability Dev</Name>
+              <SortOrder>1</SortOrder>
+            </PrimaryResponsibilityItem>
+            <PrimaryResponsibilityItem>
+              <Name>Planning and Measurement</Name>
+              <SortOrder>2</SortOrder>
+            </PrimaryResponsibilityItem>
+          </ResponsibilityItems>
+        </PrimaryResponsibility>
+        <PrimaryResponsibility ItemNo="6">
+          <Name>Executive Team/Board Responsibilities</Name>
+          <SortOrder>6</SortOrder>
+        </PrimaryResponsibility>
+      </Responsibilities>
+    </ProgramRole>
+  </ProgramRoles>
+</Program>

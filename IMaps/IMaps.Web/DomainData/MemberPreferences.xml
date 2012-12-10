@@ -1,0 +1,158 @@
+﻿<ArrayOfMemberPreference>
+  <MemberPreference id="1">
+    <DependencyPreference>
+      <Controls>
+        <PreferenceControl>
+          <ControlType>Checkbox</ControlType>
+          <Label>Jan</Label>
+        </PreferenceControl>
+        <PreferenceControl>
+          <ControlType>Checkbox</ControlType>
+          <Label>Feb</Label>
+        </PreferenceControl>
+        <PreferenceControl>
+          <ControlType>Checkbox</ControlType>
+          <Label>Mar</Label>
+        </PreferenceControl>
+        <PreferenceControl>
+          <ControlType>Checkbox</ControlType>
+          <Label>Apr</Label>
+        </PreferenceControl>
+        <PreferenceControl>
+          <ControlType>Checkbox</ControlType>
+          <Label>May</Label>
+        </PreferenceControl>
+        <PreferenceControl>
+          <ControlType>Checkbox</ControlType>
+          <Label>June</Label>
+        </PreferenceControl>
+        <PreferenceControl>
+          <ControlType>Checkbox</ControlType>
+          <Label>July</Label>
+        </PreferenceControl>
+        <PreferenceControl>
+          <ControlType>Checkbox</ControlType>
+          <Label>Aug</Label>
+        </PreferenceControl>
+        <PreferenceControl>
+          <ControlType>Checkbox</ControlType>
+          <Label>Sep</Label>
+        </PreferenceControl>
+        <PreferenceControl>
+          <ControlType>Checkbox</ControlType>
+          <Label>Oct</Label>
+        </PreferenceControl>
+        <PreferenceControl>
+          <ControlType>Checkbox</ControlType>
+          <Label>Nov</Label>
+        </PreferenceControl>
+        <PreferenceControl>
+          <ControlType>Checkbox</ControlType>
+          <Label>Dec</Label>
+        </PreferenceControl>
+      </Controls>
+      <Description>Which are your preferred months for quarterly membership reviews?</Description>
+      <MutualExclusive>false</MutualExclusive>
+    </DependencyPreference>
+    <Description>30-60 minute structured check-in with Account Manager. Review membership usage and value received. Refresh service plan.</Description>
+    <Name>Quarterly Membership Review and Planning</Name>
+  </MemberPreference>
+  <MemberPreference id="2">
+    <DependencyPreference>
+      <Controls>
+        <PreferenceControl>
+          <ControlType>RadioButton</ControlType>
+          <Label>Yes</Label>
+        </PreferenceControl>
+        <PreferenceControl>
+          <ControlType>RadioButton</ControlType>
+          <Label>Not at this time</Label>
+        </PreferenceControl>
+      </Controls>
+      <Description>Can we go ahead and preregister you?</Description>
+      <MutualExclusive>true</MutualExclusive>
+    </DependencyPreference>
+    <Description>Exclusive 1 or 2 day, peer network-based event centered around the latest research.</Description>
+    <Name>Annual Executive Retreat</Name>
+  </MemberPreference>
+  <MemberPreference id="3">
+    <DependencyPreference>
+      <Controls>
+        <PreferenceControl>
+          <ControlType>RadioButton</ControlType>
+          <Label>Yes</Label>
+        </PreferenceControl>
+        <PreferenceControl>
+          <ControlType>RadioButton</ControlType>
+          <Label>Not at this time</Label>
+        </PreferenceControl>
+      </Controls>
+      <Description>Can we go ahead and work to schedule an Advisor session?</Description>
+      <MutualExclusive>true</MutualExclusive>
+    </DependencyPreference>
+    <Description>Learn new approaches and validate ideas through interactive discussions with one of CEB’s certified Executive Advisors.</Description>
+    <Name>Executive Advisor Support</Name>
+  </MemberPreference>
+  <MemberPreference id="4">
+    <DependencyPreference>
+      <Controls>
+        <PreferenceControl>
+          <ControlType>RadioButton</ControlType>
+          <Label>Once a month</Label>
+        </PreferenceControl>
+        <PreferenceControl>
+          <ControlType>RadioButton</ControlType>
+          <Label>Once a quarter</Label>
+        </PreferenceControl>
+        <PreferenceControl>
+          <ControlType>RadioButton</ControlType>
+          <Label>Once a every 6 months</Label>
+        </PreferenceControl>
+      </Controls>
+      <Description>In addition to tapping into the network, to what degree are you open to making yourself available to peers at your level?</Description>
+      <MutualExclusive>true</MutualExclusive>
+    </DependencyPreference>
+    <Description>Gain peer perspectives, exchange ideas, and accelerate thinking on common challenges.</Description>
+    <Name>Executive Peer Networking</Name>
+  </MemberPreference>
+  <MemberPreference id="5">
+    <DependencyPreference>
+      <Controls>
+        <PreferenceControl>
+          <ControlType>RadioButton</ControlType>
+          <Label>Yes</Label>
+        </PreferenceControl>
+        <PreferenceControl>
+          <ControlType>RadioButton</ControlType>
+          <Label>No</Label>
+        </PreferenceControl>
+      </Controls>
+      <Description>Would you find it helpful if we provided a 10-15 minute web overview for you?</Description>
+      <MutualExclusive>true</MutualExclusive>
+    </DependencyPreference>
+    <Description>Access CEB's full digital library of leading best practices, insights, and implementation tools. Includes access to your own digital workspace for organizing CEB materials.</Description>
+    <Name>Member Website</Name>
+  </MemberPreference>
+  <MemberPreference id="6">
+    <DependencyPreference>
+      <Controls>
+        <PreferenceControl>
+          <ControlType>RadioButton</ControlType>
+          <Label>Via Email</Label>
+        </PreferenceControl>
+        <PreferenceControl>
+          <ControlType>RadioButton</ControlType>
+          <Label>Via Phone/Virtual walk-through</Label>
+        </PreferenceControl>
+        <PreferenceControl>
+          <ControlType>RadioButton</ControlType>
+          <Label>Via MyWorkspace on CEB member site.</Label>
+        </PreferenceControl>
+      </Controls>
+      <Description>Would you like to receive the briefings?</Description>
+      <MutualExclusive>true</MutualExclusive>
+    </DependencyPreference>
+    <Description>Compilation of the latest research and insights relevant to your priorities and interests</Description>
+    <Name>Research/Insight Briefings</Name>
+  </MemberPreference>
+</ArrayOfMemberPreference>

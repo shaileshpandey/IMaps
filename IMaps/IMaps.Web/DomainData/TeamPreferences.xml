@@ -1,0 +1,91 @@
+﻿<ArrayOfTeamPreference>
+  <TeamPreference id="1">
+    <DependencyPreference>
+      <Controls>
+        <PreferenceControl>
+          <ControlType>TextBox</ControlType>
+          <Label>Name</Label>
+        </PreferenceControl>
+        <PreferenceControl>
+          <ControlType>TextBox</ControlType>
+          <Label>Name</Label>
+        </PreferenceControl>
+        <PreferenceControl>
+          <ControlType>TextBox</ControlType>
+          <Label>Name</Label>
+        </PreferenceControl>
+      </Controls>
+      <Description>Who are the key staff members we should engage for this service?</Description>
+    </DependencyPreference>
+    <Description>In-person or virtual orientation session. Customized for 1-3 members on your team to help them better understand CEB resources and services.</Description>
+    <Name>CEB Orientation</Name>
+  </TeamPreference>
+  <TeamPreference id="2">
+    <DependencyPreference>
+      <Controls>
+        <PreferenceControl>
+          <ControlType>TextBox</ControlType>
+          <Label>Name</Label>
+        </PreferenceControl>
+      </Controls>
+      <Description>Who should we coordinate with for this service?</Description>
+    </DependencyPreference>
+    <Description>In-person or virtual attendance by CEB to share the latest resources and services relevant to your team’s priorities and interests.</Description>
+    <Name>CEB Attendance at Upcoming Staff Meetings</Name>
+  </TeamPreference>
+  <TeamPreference id="3">
+    <DependencyPreference>
+      <Controls>
+        <PreferenceControl>
+          <ControlType>TextBox</ControlType>
+          <Label>Name</Label>
+        </PreferenceControl>
+        <PreferenceControl>
+          <ControlType>TextBox</ControlType>
+          <Label>Name</Label>
+        </PreferenceControl>
+        <PreferenceControl>
+          <ControlType>TextBox</ControlType>
+          <Label>Name</Label>
+        </PreferenceControl>
+      </Controls>
+      <Description>Who are the key staff members we should engage for this service?</Description>
+    </DependencyPreference>
+    <Description>Virtual session with team to review the key features of the member website and how to best leverage throughout the membership.</Description>
+    <Name>Website Overview</Name>
+  </TeamPreference>
+  <TeamPreference id="4">
+    <DependencyPreference>
+      <Controls>
+        <PreferenceControl>
+          <ControlType>TextBox</ControlType>
+          <Label>Name</Label>
+        </PreferenceControl>
+        <PreferenceControl>
+          <ControlType>TextBox</ControlType>
+          <Label>Name</Label>
+        </PreferenceControl>
+        <PreferenceControl>
+          <ControlType>TextBox</ControlType>
+          <Label>Name</Label>
+        </PreferenceControl>
+      </Controls>
+      <Description>Who are the key staff members we should engage for this service?</Description>
+    </DependencyPreference>
+    <Description>60 minute virtual web sessions primarily focused on new insights, best practices, and practical implementation guidance. Formats vary but include CEB-led, Peer-led, and interactive forums.</Description>
+    <Name>Ongoing Webinars</Name>
+  </TeamPreference>
+  <TeamPreference id="5">
+    <DependencyPreference>
+      <Controls>
+        <PreferenceControl>
+          <ControlType>TextBox</ControlType>
+          <Label>Name</Label>
+        </PreferenceControl>
+      </Controls>
+      <Description>Who are the key staff members we should engage for this service?</Description>
+    </DependencyPreference>
+    <Description>Add CEB site link to internal portal for easy access</Description>
+    <Name>Embed CEB Website in Internal Portal</Name>
+  </TeamPreference>
+</ArrayOfTeamPreference>
