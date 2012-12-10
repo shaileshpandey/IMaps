@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="IMaps.Domain.Program">
+    <Position X="1.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="ProgramRoles" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="IMaps.Domain.ProgramRole">
+    <Position X="3.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAQAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProgramRole.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Responsibilities" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="IMaps.Domain.PrimaryResponsibility">
+    <Position X="3.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>PrimaryResponsibility.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="ResponsibilityItems" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="IMaps.Domain.PrimaryResponsibilityItem">
+    <Position X="7.25" Y="0.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PrimaryResponsibilityItem.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IMaps.Domain.MemberRole">
+    <Position X="6.25" Y="3.5" Width="1.5" />
+    <AssociationLine Name="Responsibilities" Type="IMaps.Domain.PrimaryResponsibility" ManuallyRouted="true" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="6.719" Y="3.5" />
+        <Point X="6.719" Y="1.688" />
+        <Point X="5.5" Y="1.688" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>MemberRole.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsCollectionAssociation>
+      <Property Name="Responsibilities" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
